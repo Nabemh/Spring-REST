@@ -1,4 +1,4 @@
-package com.nabem.books.books;
+package com.nabem.books;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
